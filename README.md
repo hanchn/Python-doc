@@ -1,0 +1,44 @@
+## Python doc
+
+#### category
+
+- 什么是web？
+- 尝试通过浏览器工具写个弹窗
+- 创建一个Html，在浏览器里展示Hello World !
+- 安装开发工具vscode
+- 利用vscode写第一行代码并跑起来
+- 利用vscode下载插件
+- Python语言介绍
+- Python环境安装
+- 查看python版本号
+- 利用终端工具写一行python代码
+- 在vscode中写一行python代码
+- 写一个输入输出语句
+- 输出__name__环境名
+- 什么是常量变量
+- 字符、数字、字符串
+- 运算与字符拼接
+- 条件语句
+- 分支语句
+- while do、do while
+- 环境变量
+- 函数
+- 返回值
+- 数组
+- 遍历
+- 文件引用
+
+
+
+#### Coding
+
+[输出一行Hello World !代码](./demos/01.py)
+[输出__name__环境名](./demos/02.py)
+[定义一个变量](./demos/03.py)
+[写一个输入输出](./demos/04.py)
+[简单的分支语句](./demos/05.py)
+[复杂的分支语句](./demos/06.py)
+[匹配语句](./demos/07.py)
+[三元运算](./demos/08.py)
+[数组](./demos/09.py)
+[数组的遍历](./demos/10.py)
