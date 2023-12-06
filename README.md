@@ -32,8 +32,9 @@
 
 #### Coding
 
-[输出一行Hello World !代码](./demos/01.py)
-[输出__name__环境名](./demos/02.py)
+[打印一行Hello World !代码](./demos/01.py)
+[什么是注释](./demos/16.py)
+[字符串拼接](./demos/17.py)
 [定义一个变量](./demos/03.py)
 [写一个输入输出](./demos/04.py)
 [简单的分支语句](./demos/05.py)
@@ -42,3 +43,11 @@
 [三元运算](./demos/08.py)
 [数组](./demos/09.py)
 [数组的遍历](./demos/10.py)
+[写一个函数](./demos/11.py)
+[写一个复杂的函数](./demos/12.py)
+[输出__name__环境名](./demos/12.py)
+[引用不同文件的内容](./demos/13.py)
+[字典dict数据格式](./demos/14.py)
+[字典dict数据增删改查](./demos/15.py)
+[字典dict数据的遍历](./demos/18.py)
+

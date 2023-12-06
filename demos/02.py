@@ -1,1 +1,2 @@
-print(__name__)
+say = "Hello"
+print(say)

@@ -1,5 +1,5 @@
-say = "Hello"
-print(say)
-
-talk = input()
-print(talk)
+talk = ""
+if talk == "yes":
+    print("You said yes!")
+else:
+  print("You said no!")

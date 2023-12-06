@@ -1,5 +1,3 @@
-talk = "yes"
+list = ["cat", "dog", "gege"]
 
-mom = ("Mom said no.", "Mom said yes .")[talk == "yes"]
-
-print(mom)
+print(list[0])

@@ -1,3 +1,4 @@
 list = ["cat", "dog", "gege"]
 
-print(list[0])
+for pet in list:
+    print(pet)
