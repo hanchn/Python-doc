@@ -50,4 +50,5 @@
 [字典dict数据格式](./demos/14.py)
 [字典dict数据增删改查](./demos/15.py)
 [字典dict数据的遍历](./demos/18.py)
+[set数据格式](./demos/19.py)
 
