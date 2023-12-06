@@ -51,4 +51,13 @@
 [字典dict数据增删改查](./demos/15.py)
 [字典dict数据的遍历](./demos/18.py)
 [set数据格式](./demos/19.py)
+[set数据格式的增删改查](./demos/20.py)
+[类](./demos/21.py)
+[构造函数](./demos/21.py)
+[类内部属性的定义与使用](./demos/22.py)
+[类内部函数的定义与使用](./demos/23.py)
+[类内部函数的重载](./demos/24.py)
+[类的继承](./demos/25.py)
+[多态](./demos/26.py)
+
 
